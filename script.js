@@ -12,7 +12,7 @@ function checkdata()
 function showrate(x)
 // Function updates span with final value from slider
 {
-    document.getElementById("enteredRate").innerText = x;
+    document.getElementById("Rate").innerText = x;
 }
 function compute()
 // Function determines interest earned an enters text under id=result
