@@ -1,7 +1,7 @@
 body {background-color:black;
-font-family: :arial;color:white}
+font-family: :Arial;color:white}
 h1{color:grey;
-font-family:verdana;
+font-family:Verdana;
 }
  
 .maindiv{
@@ -10,6 +10,6 @@ font-family:verdana;
     width: 300px;
     padding: 20px;
     border-radius: 25px;
-    align:center
+    align: center
 }
 
